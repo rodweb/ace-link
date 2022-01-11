@@ -75,7 +75,7 @@
                             term-mode vterm-mode
                             eshell-mode
                             telega-chat-mode
-                            org-roam-mode))
+                            org-roam-mode org-journal-mode))
          (ace-link-org))
         ((eq major-mode 'org-agenda-mode)
          (ace-link-org-agenda))
